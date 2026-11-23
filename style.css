@@ -6,3 +6,11 @@ body {
 h1 {
   color: #333333;
 }
+input {
+  padding: 8px;
+  margin: 5px;
+}
+button {
+  background-color: #2e7d32;
+  color: white;
+}
