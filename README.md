@@ -1,4 +1,3 @@
 # git-practical-26l3026
 
-ROHAAN QAYYUM KHAN
-26L3026
+
